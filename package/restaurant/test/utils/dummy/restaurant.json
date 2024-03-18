@@ -1,0 +1,15 @@
+{
+  "error": false,
+  "message": "Success",
+  "count": 3,
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Restaurant One",
+      "description": "A description for Restaurant One.",
+      "pictureId": "1",
+      "city": "City One",
+      "rating": 4.5
+    }
+  ]
+}
